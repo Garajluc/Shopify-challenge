@@ -1,0 +1,27 @@
+    // console.log(data);
+    // data.forEach(data =>
+    //     data.class = ""
+    // );
+    // data.forEach(test);
+    //
+    // function test(data) {
+    //     if(data.class) {
+    //         // return len tie co maju tuto charakteristiku a potom ich zobraz zelene
+    //     }
+    // }
+
+
+
+
+            // results.forEach(result =>
+            //     result.class = "green"
+            // );
+            // results.forEach(test);
+            //
+            // function test(result) {
+            //     if(result.class) {
+            //         console.log(result);
+            //         // return len tie co maju tuto charakteristiku a potom ich zobraz zelene
+            //     }
+            // }
+
